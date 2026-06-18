@@ -1,0 +1,8 @@
+site_name: Regex Tester
+site_description: Test a regular expression against a string with live match highlighting.
+theme:
+  name: readthedocs
+nav:
+  - Overview: index.md
+  - Usage & API: usage.md
+  - Guide: guide.md
