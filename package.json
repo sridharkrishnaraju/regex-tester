@@ -1,0 +1,13 @@
+{
+  "name": "@sgbp/regex-tester",
+  "version": "1.0.0",
+  "description": "Test a regular expression against a string with live match highlighting. Zero-dependency Web Component.",
+  "type": "module",
+  "main": "regex-tester.js",
+  "unpkg": "regex-tester.js",
+  "files": ["regex-tester.js", "README.md"],
+  "keywords": ["web-component", "custom-element", "test regular expression", "regex online", "regex match tester"],
+  "homepage": "https://sgbp.tech/tools/regex-tester",
+  "author": "SGBP — Singapore Build Partners (https://sgbp.tech)",
+  "license": "MIT"
+}
